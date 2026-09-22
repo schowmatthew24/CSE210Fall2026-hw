@@ -43,6 +43,19 @@
         },
 
         {
+            "name": "C# Prep 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-csharp-prep-Prep2",
+            "program": "${workspaceFolder}/csharp-prep/Prep2/bin/Debug/net10.0/Prep2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/csharp-prep/Prep2",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+        {
             "name": "C# Prep 3",
             "type": "coreclr",
             "request": "launch",
