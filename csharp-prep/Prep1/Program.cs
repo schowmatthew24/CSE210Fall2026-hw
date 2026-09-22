@@ -16,7 +16,7 @@
 // }
 
 using System;
-//I am adding a comment to update when I send it to GitHUB
+//I am adding a comment to update when I send it to Git
 namespace game
 {
     class Program
