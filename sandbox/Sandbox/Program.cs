@@ -90,3 +90,7 @@ class Program
 //class - int - object - x - int x
 //you need class diagrams for assignments / 1. Class name 2. Attributes 3. Methods
 //class is the actual code.
+
+
+// Jounral Entry  -  Journal _entries: List JournalEntry
+//Name - attribute - 
