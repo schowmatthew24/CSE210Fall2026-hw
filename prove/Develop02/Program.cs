@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Exceeding Requirements Note:
-        // Used a custom string delimiter '~|~' in save/load functionality to handle user responses containing commas and quotes without breaking the file structure.
+        
 
         Journal journal = new Journal();
         bool running = true;
