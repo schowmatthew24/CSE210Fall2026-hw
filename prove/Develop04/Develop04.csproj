@@ -9,3 +9,7 @@
   </PropertyGroup>
 
 </Project>
+
+
+// is-a is inheritance, has-a is composition
+//anything common goes n base/parent class
